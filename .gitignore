@@ -4,8 +4,8 @@
 inference_time.ipynb
 inference_time.py
 main_mga_nyu.py
-test_diode.ipynb
-test_nyudepth.ipynb
+tes_diode.ipynb
+tes_nyudepth.ipynb
 
 __pycache__/
 .ipynb_checkpoints/
